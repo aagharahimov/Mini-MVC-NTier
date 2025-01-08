@@ -3,3 +3,97 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# Rider specific
+.idea/
+*.sln.iml
+.idea_modules/
+.idea.*
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/workspace.xml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.dbmdl
+*.opendb
+*.pdb
+*.pidb
+*.mpb
+*.svclog
+
+# Build results
+bin/
+obj/
+debug/
+release/
+
+# Publish directory
+publish/
+
+# Azure Web App deployment
+publishProfiles/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Rider IDE directories
+.idea/
+.idea_modules/
+
+# .NET Core generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+
+# Logs and temporary files
+*.log
+.vscode/
+.vscode-test/
+*.vspscc
+*.vssscc
+
+# Package directories
+**/packages/
+!packages/build/
+!packages/repositories.config
+*.nupkg
+*.snupkg
+
+# Test and coverage results
+TestResults/
+*.coverage
+*.coveragexml
+*.codecov
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+*.bak
+
+# Rider run configurations
+*.run.xml
+
+# ASP.NET scaffolding and migrations
+ScaffoldingReadMe.txt
+Migrations/
+
+# Local environment files
+*.local
+.env
+.env.*
+
+# Sensitive files
+secrets.json
+appsettings.Development.json
