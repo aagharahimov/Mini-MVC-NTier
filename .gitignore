@@ -97,3 +97,4 @@ Migrations/
 # Sensitive files
 secrets.json
 appsettings.Development.json
+appsettings.json
